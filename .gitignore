@@ -9,3 +9,4 @@ doc/*.log
 doc/**/*.log
 doc/auto
 doc/**/auto
+/.stack-work
